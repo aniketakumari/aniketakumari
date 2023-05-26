@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: aniketakumari/README.md@0.7.1
+      - uses: aniketakumari/.github/workflows/profile-3d.yml@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.aniketakumari }}
