@@ -12,9 +12,7 @@
 
 ![github_cover_banner](https://github.com/aniketakumari/aniketakumari/blob/main/GitHub%20Banner.png)
 
-
 <br>
-
 
 <div align="left">
   
@@ -119,9 +117,10 @@
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<br>
+<br>
 
-<img align="right" alt="Coding" width="500" src="https://im.ezgif.com/tmp/ezgif-1-5c3bff6beb.gif">
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
 
 <!-- Begin Stats Cards -->
@@ -130,6 +129,8 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="left">
+  
+<img align="right" alt="Coding" width="480" src="https://im.ezgif.com/tmp/ezgif-1-5c3bff6beb.gif">
 
 ![aniketakumari's Stats](https://github-readme-stats.vercel.app/api?username=aniketakumari&theme=dark&column=7&card_width=20&show_icons=true&hide_border=false&count_private=false)
 
@@ -139,7 +140,7 @@
     
 <!-- donut programming languages layout -->
   
-<img align="right" alt="Coding" height="200" width="620" src="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
+<img align="right" alt="Coding" height="200" width="600" src="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketakumari&theme=dark&layout=donut)](https://github.com/aniketakumari/github-readme-stats)
   
