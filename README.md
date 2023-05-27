@@ -121,7 +121,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<img align="right" alt="Coding" width="510" src="https://im.ezgif.com/tmp/ezgif-1-5c3bff6beb.gif">
+<img align="right" alt="Coding" width="500" src="https://im.ezgif.com/tmp/ezgif-1-5c3bff6beb.gif">
 
 
 <!-- Begin Stats Cards -->
@@ -139,7 +139,7 @@
     
 <!-- donut programming languages layout -->
   
-<img align="right" alt="Coding" height="210" width="620" src="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
+<img align="right" alt="Coding" height="200" width="620" src="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketakumari&theme=dark&layout=donut)](https://github.com/aniketakumari/github-readme-stats)
   
