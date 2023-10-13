@@ -31,7 +31,8 @@
 </p>    
 <br>
 <br>
-[![An image of @aniketakumari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketakumari)](https://holopin.io/@aniketakumari)
+
+[![@aniketakumari'sHolopin board](https://holopin.me/aniketakumari)](https://holopin.io/@aniketakumari)
 
 
 <h2 align="left">Connect with me</h2>
